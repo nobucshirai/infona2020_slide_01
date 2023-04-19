@@ -9,15 +9,15 @@
 ## ファイル説明
 
 - `infona2020_slide_01.tex`
-    - BEAMERクラスを使ったスライドの $\LaTeX$ コード
+    - BEAMERクラスを使ったスライドのLaTeXコード
 - `infona2020_slide_01.pdf`
-    - 上記 $\LaTeX$ コードから生成したスライドのPDFファイル
-    - $\LaTeX$ コードおよびPDFファイルはOverleafで作成 [[Overleafプロジェクト](https://www.overleaf.com/read/szgyznjxdkwj)]
+    - 上記LaTeXコードから生成したスライドのPDFファイル
+    - LaTeXコードおよびPDFファイルはOverleafで作成 [[Overleafプロジェクト](https://www.overleaf.com/read/szgyznjxdkwj)]
 - `report_01.pdf`
     - 動画内で使用している第1回レポートのPDFファイル
     - 前半分のページは授業で穴埋めする前の状態
     - 後半分のページは穴埋め部分を埋めた状態
-    - 書き込み前の $\LaTeX$ コードはOverleafで作成 [[Overleafプロジェクト](https://www.overleaf.com/read/nqsgdbzzmrrv)]
+    - 書き込み前のLaTeXコードはOverleafで作成 [[Overleafプロジェクト](https://www.overleaf.com/read/nqsgdbzzmrrv)]
 
 ## 誤植・間違いの報告
 
@@ -37,3 +37,4 @@
 - 対象:  三重大学工学部情報工学科3年生
 - 日時 (第1回): 2020/10/01 (木) 13時—14時半
 - ※ 前半30分のガイダンスは別の動画として分離→ https://youtu.be/M3LxpxiaS2g
+
